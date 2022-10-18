@@ -3,7 +3,7 @@
 ![demo:fastapi vue websocket](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ngku8zg9ca7sstjtvutf.gif)
 
 
-###Part1: FastAPI
+###  Part1: FastAPI
 Create virtualenv (optional)
 Install FastAPI and all necessary things by-
 ```py
@@ -67,7 +67,7 @@ And by this line of code we are able to send data to frontend. And that's how we
 
 <hr>
 
-###Part2: Vue3 (Frontend)
+### Part2: Vue3 (Frontend)
 let's create vue3 applicaion- [Vue3 installation guide](https://vuejs.org/guide/quick-start.html)
 
 ```bash 
